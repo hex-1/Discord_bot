@@ -1,0 +1,160 @@
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot.deps.json
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.json
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.dev.json
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/bot.pdb
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Commands.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Core.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Rest.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Webhook.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.WebSocket.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Json.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/System.Interactive.Async.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Encodings.Web.dll
+/home/pi/b/disbot2/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Json.dll
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.csprojAssemblyReference.cache
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfoInputs.cache
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfo.cs
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.csproj.CopyComplete
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot2/bot/bot/obj/Debug/netcoreapp3.0/bot.pdb
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot.deps.json
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.json
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.dev.json
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/bot.pdb
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Commands.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Core.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Rest.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Webhook.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.WebSocket.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Json.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/System.Interactive.Async.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Encodings.Web.dll
+/home/pi/b/disbot1/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Json.dll
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.csprojAssemblyReference.cache
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfoInputs.cache
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfo.cs
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.csproj.CopyComplete
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot1/bot/bot/obj/Debug/netcoreapp3.0/bot.pdb
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot.deps.json
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.json
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot.runtimeconfig.dev.json
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/bot.pdb
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Commands.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Core.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Rest.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.Webhook.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Discord.Net.WebSocket.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Json.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/System.Interactive.Async.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Encodings.Web.dll
+/home/pi/b/disbot3/bot/bot/bin/Debug/netcoreapp3.0/System.Text.Json.dll
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.csprojAssemblyReference.cache
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfoInputs.cache
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.AssemblyInfo.cs
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.csproj.CopyComplete
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.dll
+/home/pi/b/disbot3/bot/bot/obj/Debug/netcoreapp3.0/bot.pdb
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.exe
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.deps.json
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.runtimeconfig.json
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.runtimeconfig.dev.json
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\bot.pdb
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+A:\documents\home\dis bots\disbot3\bot\bot\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.csprojAssemblyReference.cache
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.AssemblyInfoInputs.cache
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.AssemblyInfo.cs
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.csproj.CopyComplete
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.dll
+A:\documents\home\dis bots\disbot3\bot\bot\obj\Debug\netcoreapp3.0\bot.pdb
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.exe
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.deps.json
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.runtimeconfig.json
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.runtimeconfig.dev.json
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\bot.pdb
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Commands.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Core.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Rest.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.Webhook.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Discord.Net.WebSocket.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.csprojAssemblyReference.cache
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.AssemblyInfoInputs.cache
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.AssemblyInfo.cs
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.csproj.CopyComplete
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.dll
+A:\documents\home\dis bots\disbot3 - Copy\bot\bot\obj\Debug\netcoreapp3.0\bot.pdb
